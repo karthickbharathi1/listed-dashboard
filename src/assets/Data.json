@@ -1,0 +1,130 @@
+[
+    [
+      {
+        "label": "Week 0",
+        "user": 100,
+        "guest": 20
+      },
+      {
+        "label": "Week 1",
+        "user": 400,
+        "guest": 350
+      },
+      {
+        "label": "Week 2",
+        "user": 150,
+        "guest": 200
+      },
+      {
+        "label": "Week 3",
+        "user": 450,
+        "guest": 300
+      },
+      {
+        "label": "Week 4",
+        "user": 190,
+        "guest": 220
+      },
+      {
+        "label": "Week 5",
+        "user": 250,
+        "guest": 43
+      }
+    ],
+    [
+      {
+        "label": "Week 6",
+        "user": 20,
+        "guest": 40
+      },
+      {
+        "label": "Week 7",
+        "user": 300,
+        "guest": 100
+      },
+      {
+        "label": "Week 8",
+        "user": 260,
+        "guest": 300
+      },
+      {
+        "label": "Week 9",
+        "user": 520,
+        "guest": 100
+      },
+      {
+        "label": "Week 10",
+        "user": 25,
+        "guest": 68
+      },
+      {
+        "label": "Week 11",
+        "user": 550,
+        "guest": 203
+      }
+    ],
+    [
+      {
+        "label": "Week 12",
+        "user": 150,
+        "guest": 209
+      },
+      {
+        "label": "Week 13",
+        "user": 520,
+        "guest": 120
+      },
+      {
+        "label": "Week 14",
+        "user": 18,
+        "guest": 98
+      },
+      {
+        "label": "Week 15",
+        "user": 50,
+        "guest": 30
+      },
+      {
+        "label": "Week 16",
+        "user": 100,
+        "guest": 520
+      },
+      {
+        "label": "Week 17",
+        "user": 200,
+        "guest": 50
+      }
+    ],
+    [
+      {
+        "label": "Week 18",
+        "user": 100,
+        "guest": 20
+      },
+      {
+        "label": "Week 19",
+        "user": 400,
+        "guest": 350
+      },
+      {
+        "label": "Week 20",
+        "user": 20,
+        "guest": 520
+      },
+      {
+        "label": "Week 21",
+        "user": 220,
+        "guest": 100
+      },
+      {
+        "label": "Week 22",
+        "user": 520,
+        "guest": 30
+      },
+      {
+        "label": "Week 23",
+        "user": 45,
+        "guest": 98
+      }
+    ]
+  ]

@@ -1,0 +1,25 @@
+.pie-container {
+    background-color: #fff;
+    width: 48%;
+  
+    border-radius: 3rem;
+    padding: 2rem;
+  
+    .pieChart {
+      width: 45rem;
+    }
+    .contoller {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 3rem;
+      h3 {
+        font-size: 2rem;
+      }
+      select {
+        width: 24%;
+        padding: 0;
+        margin: 0;
+      }
+    }
+  }
